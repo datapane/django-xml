@@ -24,7 +24,7 @@ setup(
         'lxml',
         'pytz',
         'python-dateutil',
-        'Django>=1.11',
+        'Django>=2.1',
         'six',
     ],
     description="Provides an abstraction to lxml's XPath and XSLT " + \
